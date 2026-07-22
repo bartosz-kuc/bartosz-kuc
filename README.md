@@ -55,7 +55,9 @@ Every repo ships the same automation stack:
 - Secret scanning with push protection
 - MIT licensed, verified commits
 
-## Contact
+## Consulting
 
-- GitHub: [@bartosz-kuc](https://github.com/bartosz-kuc)
+Available for consulting on Polish tax and business integrations (KSeF, GUS/NFZ/GIOŚ APIs, mBank data), MCP server design, and AI-assisted tooling for JDGs and small teams.
+
+- Email: **firma@bartosza.pl**
 - Site: [skanfirmy.pl](https://skanfirmy.pl)

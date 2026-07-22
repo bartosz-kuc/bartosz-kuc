@@ -1,6 +1,6 @@
 # Bartosz Kuć
 
-Warsaw-based developer. JDG owner running [skanfirmy.pl](https://skanfirmy.pl). Day job at RTB House.
+Warsaw-based developer. JDG owner running [skanfirmy.pl](https://skanfirmy.pl). Day job in process automation at a global ad-tech company.
 
 ## honest-mcp — 13 open-source local MCP servers
 

@@ -7,6 +7,11 @@
 
 Warsaw-based developer. JDG owner running [skanfirmy.pl](https://skanfirmy.pl). Day job in process automation at a global ad-tech company.
 
+### Products
+
+- **[skanfirmy.pl](https://skanfirmy.pl)** — free tools to verify Polish companies by tax ID (NIP), straight from official government registers. **8 tools**: VAT White List, KRS registry, bank account verification, tax micro-account, PKD 2025 codes, late-payment interest, EU VIES, and [bulk NIP lookup](https://skanfirmy.pl/bulk) (up to 30 tax IDs at once, CSV/JSON export). Every tool is also callable by AI agents via [MCP server](https://skanfirmy.pl/mcp) (8 JSON-RPC tools) or plain REST: `/nip/{number}`, `/nips/{list}`, `/vies/{country}/{number}`. No key, no login.
+- **[otwarteapi.pl](https://otwarteapi.pl)** — directory of Polish and EU public APIs described so they can be discovered and called by AI agents and people. 22 entries across VAT, KRS, GUS, NBP, ECB, Eurostat and single-country statistics offices. Bilingual PL/EN, following the [Agentic Resource Discovery](https://github.com/ards-project/ard-spec) spec ([ai-catalog.json](https://otwarteapi.pl/.well-known/ai-catalog.json)). Catalog data is public on [bartosz-kuc/otwarteapi-catalog](https://github.com/bartosz-kuc/otwarteapi-catalog) — PRs welcome.
+
 ### honest-mcp — 13 open-source local MCP servers
 
 A family of small, auditable MCP servers that let AI clients (Claude, Cursor, Zed) reach real services **without a cloud middleman**. Every server runs on your own machine and talks directly to the actual service API. No hosted MCP host, no data collection, no third-party token custody. MIT.
@@ -73,6 +78,11 @@ Available for consulting on Polish tax and business integrations (KSeF, GUS/NFZ/
 ## Polski
 
 Deweloper z Warszawy. Prowadzę JDG, w ramach której działa [skanfirmy.pl](https://skanfirmy.pl). Na co dzień zajmuję się automatyzacją procesów w globalnej firmie z branży ad-tech.
+
+### Produkty
+
+- **[skanfirmy.pl](https://skanfirmy.pl)** — bezpłatne narzędzia do weryfikacji polskich firm po numerze NIP, prosto z oficjalnych rejestrów rządowych. **8 narzędzi**: Biała Lista VAT, KRS, weryfikacja rachunku, mikrorachunek podatkowy, kody PKD 2025, kalkulator odsetek, VIES, oraz [zbiorcze sprawdzanie NIP-ów](https://skanfirmy.pl/bulk) (do 30 na jedno wywołanie, eksport CSV/JSON). Wszystkie narzędzia są też dostępne dla agentów AI przez [serwer MCP](https://skanfirmy.pl/mcp) (8 narzędzi JSON-RPC) i zwykłe REST-y: `/nip/{numer}`, `/nips/{lista}`, `/vies/{kraj}/{numer}`. Bez klucza, bez logowania.
+- **[otwarteapi.pl](https://otwarteapi.pl)** — katalog polskich i unijnych publicznych API, opisanych tak by mogły być odkrywane i wywoływane przez agentów AI oraz ludzi. 22 pozycje: VAT, KRS, GUS, NBP, EBC, Eurostat i statystyki pojedynczych krajów UE. Dwujęzycznie PL/EN, zgodny ze specyfikacją [Agentic Resource Discovery](https://github.com/ards-project/ard-spec) ([ai-catalog.json](https://otwarteapi.pl/.well-known/ai-catalog.json)). Dane katalogu publiczne w [bartosz-kuc/otwarteapi-catalog](https://github.com/bartosz-kuc/otwarteapi-catalog) — PR-y mile widziane.
 
 ### honest-mcp — 13 otwartoźródłowych, lokalnych serwerów MCP
 

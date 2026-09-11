@@ -26,20 +26,20 @@ Your AI client ↔ MCP stdio ↔ this server (on your Mac) ↔ HTTPS ↔ real se
 
 | Repo | What |
 |---|---|
-| [mbank-parser-mcp](https://github.com/bartosz-kuc/mbank-parser-mcp) | Parses mBank CSV exports **fully offline** — no network calls at all |
-| [nbp-mcp](https://github.com/bartosz-kuc/nbp-mcp) | NBP FX rates + gold fixing — accounting-grade conversion helpers |
+| [honest-mbank-parser-mcp](https://github.com/bartosz-kuc/honest-mbank-parser-mcp) | Parses mBank CSV exports **fully offline** — no network calls at all |
+| [honest-nbp-mcp](https://github.com/bartosz-kuc/honest-nbp-mcp) | NBP FX rates + gold fixing — accounting-grade conversion helpers |
 | [honest-vies-mcp](https://github.com/bartosz-kuc/honest-vies-mcp) | EU VAT check with consultation number for audit proof |
-| [nip-krs-mcp](https://github.com/bartosz-kuc/nip-krs-mcp) | Biała Lista MF + KRS registry lookups |
-| [pl-holidays-mcp](https://github.com/bartosz-kuc/pl-holidays-mcp) | Business-day math that respects Polish public holidays |
+| [honest-nip-krs-mcp](https://github.com/bartosz-kuc/honest-nip-krs-mcp) | Biała Lista MF + KRS registry lookups |
+| [honest-pl-holidays-mcp](https://github.com/bartosz-kuc/honest-pl-holidays-mcp) | Business-day math that respects Polish public holidays |
 
 #### Polish public data
 
 | Repo | What |
 |---|---|
-| [stat-gov-mcp](https://github.com/bartosz-kuc/stat-gov-mcp) | GUS Bank Danych Lokalnych — public statistics down to the gmina |
-| [nfz-mcp](https://github.com/bartosz-kuc/nfz-mcp) | NFZ waiting lists and medical service dictionary |
-| [imgw-mcp](https://github.com/bartosz-kuc/imgw-mcp) | IMGW weather, hydro data, and active meteorological warnings |
-| [gios-air-mcp](https://github.com/bartosz-kuc/gios-air-mcp) | GIOŚ air quality — station data and composite index |
+| [honest-stat-gov-mcp](https://github.com/bartosz-kuc/honest-stat-gov-mcp) | GUS Bank Danych Lokalnych — public statistics down to the gmina |
+| [honest-nfz-mcp](https://github.com/bartosz-kuc/honest-nfz-mcp) | NFZ waiting lists and medical service dictionary |
+| [honest-imgw-mcp](https://github.com/bartosz-kuc/honest-imgw-mcp) | IMGW weather, hydro data, and active meteorological warnings |
+| [honest-gios-air-mcp](https://github.com/bartosz-kuc/honest-gios-air-mcp) | GIOŚ air quality — station data and composite index |
 
 #### Google (self-hosted alternatives)
 
@@ -53,7 +53,7 @@ Your AI client ↔ MCP stdio ↔ this server (on your Mac) ↔ HTTPS ↔ real se
 
 | Repo | What |
 |---|---|
-| [rss-mcp](https://github.com/bartosz-kuc/rss-mcp) | RSS/Atom feed reader |
+| [honest-rss-mcp](https://github.com/bartosz-kuc/honest-rss-mcp) | RSS/Atom feed reader |
 
 ### Quality
 
@@ -100,20 +100,20 @@ Twój klient AI ↔ MCP stdio ↔ ten serwer (na Twoim Macu) ↔ HTTPS ↔ prawd
 
 | Repo | Co robi |
 |---|---|
-| [mbank-parser-mcp](https://github.com/bartosz-kuc/mbank-parser-mcp) | Parsuje wyciągi CSV z mBanku **całkowicie offline** — bez żadnych połączeń sieciowych |
-| [nbp-mcp](https://github.com/bartosz-kuc/nbp-mcp) | Kursy walut NBP + fixing złota — przeliczenia na potrzeby księgowości |
+| [honest-mbank-parser-mcp](https://github.com/bartosz-kuc/honest-mbank-parser-mcp) | Parsuje wyciągi CSV z mBanku **całkowicie offline** — bez żadnych połączeń sieciowych |
+| [honest-nbp-mcp](https://github.com/bartosz-kuc/honest-nbp-mcp) | Kursy walut NBP + fixing złota — przeliczenia na potrzeby księgowości |
 | [honest-vies-mcp](https://github.com/bartosz-kuc/honest-vies-mcp) | Weryfikacja VAT UE (VIES) z numerem konsultacji jako dowodem na potrzeby audytu |
-| [nip-krs-mcp](https://github.com/bartosz-kuc/nip-krs-mcp) | Wyszukiwanie w Białej Liście MF oraz w rejestrze KRS |
-| [pl-holidays-mcp](https://github.com/bartosz-kuc/pl-holidays-mcp) | Obliczenia dni roboczych uwzględniające polskie święta |
+| [honest-nip-krs-mcp](https://github.com/bartosz-kuc/honest-nip-krs-mcp) | Wyszukiwanie w Białej Liście MF oraz w rejestrze KRS |
+| [honest-pl-holidays-mcp](https://github.com/bartosz-kuc/honest-pl-holidays-mcp) | Obliczenia dni roboczych uwzględniające polskie święta |
 
 #### Polskie dane publiczne
 
 | Repo | Co robi |
 |---|---|
-| [stat-gov-mcp](https://github.com/bartosz-kuc/stat-gov-mcp) | GUS Bank Danych Lokalnych — dane statystyczne aż do poziomu gminy |
-| [nfz-mcp](https://github.com/bartosz-kuc/nfz-mcp) | Listy oczekujących NFZ i słownik świadczeń medycznych |
-| [imgw-mcp](https://github.com/bartosz-kuc/imgw-mcp) | Dane pogodowe i hydrologiczne IMGW oraz aktywne ostrzeżenia meteorologiczne |
-| [gios-air-mcp](https://github.com/bartosz-kuc/gios-air-mcp) | Jakość powietrza GIOŚ — dane ze stacji pomiarowych i indeks jakości powietrza |
+| [honest-stat-gov-mcp](https://github.com/bartosz-kuc/honest-stat-gov-mcp) | GUS Bank Danych Lokalnych — dane statystyczne aż do poziomu gminy |
+| [honest-nfz-mcp](https://github.com/bartosz-kuc/honest-nfz-mcp) | Listy oczekujących NFZ i słownik świadczeń medycznych |
+| [honest-imgw-mcp](https://github.com/bartosz-kuc/honest-imgw-mcp) | Dane pogodowe i hydrologiczne IMGW oraz aktywne ostrzeżenia meteorologiczne |
+| [honest-gios-air-mcp](https://github.com/bartosz-kuc/honest-gios-air-mcp) | Jakość powietrza GIOŚ — dane ze stacji pomiarowych i indeks jakości powietrza |
 
 #### Google (własne, samodzielnie hostowane alternatywy)
 
@@ -127,7 +127,7 @@ Twój klient AI ↔ MCP stdio ↔ ten serwer (na Twoim Macu) ↔ HTTPS ↔ prawd
 
 | Repo | Co robi |
 |---|---|
-| [rss-mcp](https://github.com/bartosz-kuc/rss-mcp) | Czytnik kanałów RSS/Atom |
+| [honest-rss-mcp](https://github.com/bartosz-kuc/honest-rss-mcp) | Czytnik kanałów RSS/Atom |
 
 ### Jakość
 
